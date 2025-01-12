@@ -7,7 +7,7 @@ Permalink: 🌟 在茫茫人海中，我们相遇，真好呀！
 _**In the vast sea of people, it's wonderful that we've met!**_
 
 #### 介绍自己 Introduction
-
+<img align="right" alt="Coding" width="400" src="[add your link here](https://www.helloimg.com/i/2025/01/12/67836698cb337.gif)">
 Permalink: 介绍自己 Introduction
 
 - 💬 嘿嘿，你好呀！我是沙子，也可以叫我冷也是晴，总之你随意啦！(＾▽＾)
@@ -27,7 +27,7 @@ _My MBTI type is ENFJ-A. I love interacting with people and hope to bring positi
 _I'm a native Chinese speaker, and my English is passable but still improving! (๑•̀ㅂ•́)ง✧_
 
 ### 技术栈
-•
+_
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-192133?style=flat-square&logo=figma&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-192133?style=flat-square&logo=figma&logoColor=white)
