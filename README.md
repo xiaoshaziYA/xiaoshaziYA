@@ -7,7 +7,9 @@ Permalink: 🌟 在茫茫人海中，我们相遇，真好呀！
 _**In the vast sea of people, it's wonderful that we've met!**_
 
 #### 介绍自己 Introduction
+
 ![image](https://github.com/xiaoshaziYA/xiaoshaziYA/blob/main/images/sing.gif)
+
 Permalink: 介绍自己 Introduction
 
 - 💬 嘿嘿，你好呀！我是沙子，也可以叫我冷也是晴，总之你随意啦！(＾▽＾)
