@@ -1,5 +1,7 @@
 ## 🌟 在茫茫人海中，我们相遇，真好呀！
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoshaziYA&show_icons=true&theme=radical)
+
 Permalink: 🌟 在茫茫人海中，我们相遇，真好呀！
 
 _**In the vast sea of people, it's wonderful that we've met!**_
