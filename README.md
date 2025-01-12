@@ -1,7 +1,6 @@
 ## 🌟 在茫茫人海中，我们相遇，真好呀！
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoshaziYA&show_icons=true&theme=radical)
-https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoshaziYA
 
 Permalink: 🌟 在茫茫人海中，我们相遇，真好呀！
 
@@ -27,6 +26,15 @@ _My MBTI type is ENFJ-A. I love interacting with people and hope to bring positi
 
 _I'm a native Chinese speaker, and my English is passable but still improving! (๑•̀ㅂ•́)ง✧_
 
+### 技术栈
+•
+![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-192133?style=flat-square&logo=figma&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-192133?style=flat-square&logo=figma&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-192133?style=flat-square&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-192133?style=flat-square&logo=elasticsearch&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-192133?style=flat-square&logo=apache-kafka&logoColor=white)
 
 #### 现在正在做的事 Ongoing Tasks
 
