@@ -7,7 +7,7 @@ Permalink: 🌟 在茫茫人海中，我们相遇，真好呀！
 _**In the vast sea of people, it's wonderful that we've met!**_
 
 #### 介绍自己 Introduction
-
+![image](https://github.com/xiaoshaziYA/xiaoshaziYA/blob/main/images/sing.gif)
 Permalink: 介绍自己 Introduction
 
 - 💬 嘿嘿，你好呀！我是沙子，也可以叫我冷也是晴，总之你随意啦！(＾▽＾)
@@ -27,7 +27,7 @@ _My MBTI type is ENFJ-A. I love interacting with people and hope to bring positi
 _I'm a native Chinese speaker, and my English is passable but still improving! (๑•̀ㅂ•́)ง✧_
 
 ### 技术栈
-_
+
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-192133?style=flat-square&logo=figma&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-192133?style=flat-square&logo=figma&logoColor=white)
@@ -49,8 +49,7 @@ Permalink: 现在正在做的事 Ongoing Tasks
 Permalink: 社交账户 Social Accounts
 
 - 🌐 [ColorFulCraft Network](https://www.cfcmc.online/) - 高版本生电养老服务器 \| High-version survival server for the elderly
-- ![img](https://camo.githubusercontent.com/ec20b1e5fd0222b51ae212372cee22190c413b273797b6e10cd7a1c2f267fb24/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d42696c6942696c692d6662373239393f7374796c653d666f722d7468652d6261646765)
-- [Bilibili](https://space.bilibili.com/2099386049) - B站个人主页 \| Bilibili personal homepage
+- ![img](https://camo.githubusercontent.com/ec20b1e5fd0222b51ae212372cee22190c413b273797b6e10cd7a1c2f267fb24/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d42696c6942696c692d6662373239393f7374796c653d666f722d7468652d6261646765)[Bilibili](https://space.bilibili.com/2099386049) - B站个人主页 \| Bilibili personal homepage
 - 🕹️ [苦力怕论坛](https://klpbbs.com/space-uid-724968.html) - Minecraft苦力怕论坛个人主页 \| Minecraft KLPBBS personal homepage
 
 ###### 祝您生活愉快 Have a nice day :)
