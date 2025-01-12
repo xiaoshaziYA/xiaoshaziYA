@@ -4,9 +4,6 @@ Permalink: 🌟 在茫茫人海中，我们相遇，真好呀！
 
 _**In the vast sea of people, it's wonderful that we've met!**_
 
-| ![img](https://camo.githubusercontent.com/f1b6e4434a3d6fda787c31073a6d42397ebbdaeb7006033f949ed40ff353a65c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7368617a695f6177612673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565267468656d653d627565667926686964655f626f726465723d7472756526636f756e745f707269766174653d74727565)| ![img](https://camo.githubusercontent.com/3268a295218dfea017469cff38cd346cfc85d652e8e2376e863f8083299640aa/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d7368617a695f617761266c61796f75743d636f6d70616374267468656d653d627565667926686964655f626f726465723d74727565)|
-| ---| ---|
-
 #### 介绍自己 Introduction
 
 Permalink: 介绍自己 Introduction
@@ -36,8 +33,14 @@ Permalink: 现在正在做的事 Ongoing Tasks
 - 🖥 参与 ColorFulCraft Network 的社区主管工作以及官网更新 \| Participating in the community management and official website updates of ColorFulCraft Network.
 - 🎭 经常在 B站 和 苦力怕论坛 活跃，和小伙伴们交流分享有趣的事情 \| Active on Bilibili and KLPBBS, sharing and discussing interesting things with friends.
 
+#### 社交账户 Social Accounts
+
+Permalink: 社交账户 Social Accounts
+
+- 🌐 [ColorFulCraft Network](https://www.cfcmc.online/) - 高版本生电养老服务器 \| High-version survival server for the elderly
+- 📺 [Bilibili](https://space.bilibili.com/2099386049) - B站个人主页 \| Bilibili personal homepage
+- 🕹️ [苦力怕论坛](https://klpbbs.com/space-uid-724968.html) - Minecraft苦力怕论坛个人主页 \| Minecraft KLPBBS personal homepage
+
 ###### 祝您生活愉快 Have a nice day :)
 
 Permalink: 祝您生活愉快 Have a nice day :)
-
-![img](https://camo.githubusercontent.com/ec20b1e5fd0222b51ae212372cee22190c413b273797b6e10cd7a1c2f267fb24/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d42696c6942696c692d6662373239393f7374796c653d666f722d7468652d6261646765)![img](https://camo.githubusercontent.com/c2124e9630891df301a75837431af4c1c242a2034286727162c9fdec439e4ae5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4b4c504242532d3934366365363f7374796c653d666f722d7468652d6261646765)
