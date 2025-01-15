@@ -27,7 +27,7 @@ _My MBTI type is ENFJ-A. I love interacting with people and hope to bring positi
 - 📰 我是中文母语者，英语水平嘛，凑合着能用，还在努力提升中呢！(๑•̀ㅂ•́)ง✧
 
 _I'm a native Chinese speaker, and my English is passable but still improving! (๑•̀ㅂ•́)ง✧_
-![image](https://github.com/xiaoshaziYA/xiaoshaziYA/blob/main/images/milk-tea.jpg)
+
 ### 技术栈
 
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
@@ -45,6 +45,7 @@ Permalink: 现在正在做的事 Ongoing Tasks
 - ✏ 备战 2025 中考 \| Preparing for the 2025 Zhongkao.
 - 🖥 参与 ColorFulCraft Network 的社区主管工作以及官网更新 \| Participating in the community management and official website updates of ColorFulCraft Network.
 - 🎭 经常在 B站 和 苦力怕论坛 活跃，和小伙伴们交流分享有趣的事情 \| Active on Bilibili and KLPBBS, sharing and discussing interesting things with friends.
+![image](https://github.com/xiaoshaziYA/xiaoshaziYA/blob/main/images/milk-tea.jpg)
 
 #### 社交账户 Social Accounts
 
