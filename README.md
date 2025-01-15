@@ -27,7 +27,7 @@ _My MBTI type is ENFJ-A. I love interacting with people and hope to bring positi
 - 📰 我是中文母语者，英语水平嘛，凑合着能用，还在努力提升中呢！(๑•̀ㅂ•́)ง✧
 
 _I'm a native Chinese speaker, and my English is passable but still improving! (๑•̀ㅂ•́)ง✧_
-
+![image](https://github.com/xiaoshaziYA/xiaoshaziYA/blob/main/images/milk-tea.jpg)
 ### 技术栈
 
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
@@ -39,7 +39,7 @@ _I'm a native Chinese speaker, and my English is passable but still improving! (
 ![Kafka](https://img.shields.io/badge/-Kafka-192133?style=flat-square&logo=apache-kafka&logoColor=white)
 
 #### 现在正在做的事 Ongoing Tasks
-
+![image](https://github.com/xiaoshaziYA/xiaoshaziYA/blob/main/images/watermelon.gif)
 Permalink: 现在正在做的事 Ongoing Tasks
 
 - ✏ 备战 2025 中考 \| Preparing for the 2025 Zhongkao.
@@ -55,5 +55,5 @@ Permalink: 社交账户 Social Accounts
 - ![img](https://camo.githubusercontent.com/ec20b1e5fd0222b51ae212372cee22190c413b273797b6e10cd7a1c2f267fb24/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d42696c6942696c692d6662373239393f7374796c653d666f722d7468652d6261646765)[Bilibili](https://space.bilibili.com/2099386049) - B站个人主页 \| Bilibili personal homepage
 
 ###### 祝您生活愉快 Have a nice day :)
-
+![image](https://github.com/xiaoshaziYA/xiaoshaziYA/blob/main/images/show-face.gif)
 Permalink: 祝您生活愉快 Have a nice day :)
