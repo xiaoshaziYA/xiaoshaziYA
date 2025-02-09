@@ -38,6 +38,7 @@ _I'm a native Chinese speaker, and my English is passable but still improving! (
 ![Redis](https://img.shields.io/badge/-Redis-192133?style=flat-square&logo=redis&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-192133?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-192133?style=flat-square&logo=apache-kafka&logoColor=white)
+![暗色](https://raw.githubusercontent.com/xiaoshaziYA/xiaoshaziYA/output/github-contribution-grid-snake-dark.svg)
 
 #### 现在正在做的事 Ongoing Tasks
 ![image](https://github.com/xiaoshaziYA/xiaoshaziYA/blob/main/images/watermelon.gif)
