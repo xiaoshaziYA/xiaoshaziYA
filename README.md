@@ -53,7 +53,7 @@ Permalink: 现在正在做的事 Ongoing Tasks
 Permalink: 社交账户 Social Accounts
 
 - 🌐 [ColorFulCraft](https://www.cfcmc.online/ "太好玩啦！！") - 高版本生电养老服务器 \| High-version survival server for the elderly
-- 🕹️ [苦力怕论坛](https://klpbbs.com/space-uid-724968.html"你说，是不是很好吃a") - Minecraft苦力怕论坛个人主页 \| Minecraft KLPBBS personal homepage
+- 🕹️ [苦力怕论坛](https://klpbbs.com/space-uid-724968.html "你说，是不是很好吃a") - Minecraft苦力怕论坛个人主页 \| Minecraft KLPBBS personal homepage
 - ![img](https://camo.githubusercontent.com/ec20b1e5fd0222b51ae212372cee22190c413b273797b6e10cd7a1c2f267fb24/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d42696c6942696c692d6662373239393f7374796c653d666f722d7468652d6261646765)[Bilibili](https://space.bilibili.com/2099386049 "关注我喵") - B站个人主页 \| Bilibili personal homepage
 
 ###### 祝您生活愉快 Have a nice day :)
