@@ -1,7 +1,7 @@
 ## 🌟 在茫茫人海中，我们相遇，真好呀！
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoshaziYA&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoshaziYA&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoshaziYA&show_icons=true&theme=transparent&hide_border=true&icon_color=586069&title_color=24292e)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoshaziYA&layout=compact&hide_border=true&icon_color=586069&title_color=24292e)
 
 Permalink: 🌟 在茫茫人海中，我们相遇，真好呀！
 
@@ -9,7 +9,7 @@ _**In the vast sea of people, it's wonderful that we've met!**_
 
 #### 介绍自己 Introduction
 
-![image](https://github.com/xiaoshaziYA/xiaoshaziYA/blob/main/images/sing.gif)
+![image](https://github.com/xiaoshaziYA/xiaoshaziYA/blob/main/images/sing.gif?width=100)
 
 Permalink: 介绍自己 Introduction
 
@@ -31,22 +31,21 @@ _I'm a native Chinese speaker, and my English is passable but still improving! (
 
 ### 技术栈
 
-![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-192133?style=flat-square&logo=figma&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-192133?style=flat-square&logo=figma&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-192133?style=flat-square&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-192133?style=flat-square&logo=elasticsearch&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-192133?style=flat-square&logo=apache-kafka&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 
 #### 现在正在做的事 Ongoing Tasks
-![image](https://github.com/xiaoshaziYA/xiaoshaziYA/blob/main/images/watermelon.gif)
+![image](https://github.com/xiaoshaziYA/xiaoshaziYA/blob/main/images/watermelon.gif?width=100)
 Permalink: 现在正在做的事 Ongoing Tasks
 
 - ✏ 备战 2025 中考 \| Preparing for the 2025 Zhongkao.
 - 🖥 参与 ColorFulCraft Network 的社区主管工作以及官网更新 \| Participating in the community management and official website updates of ColorFulCraft Network.
 - 🎭 经常在 B站 和 苦力怕论坛 活跃，和小伙伴们交流分享有趣的事情 \| Active on Bilibili and KLPBBS, sharing and discussing interesting things with friends.
-![image](https://github.com/xiaoshaziYA/xiaoshaziYA/blob/main/images/milk-tea.jpg)
+![image](https://github.com/xiaoshaziYA/xiaoshaziYA/blob/main/images/milk-tea.jpg?width=100)
 
 #### 社交账户 Social Accounts
 
@@ -57,5 +56,5 @@ Permalink: 社交账户 Social Accounts
 - ![img](https://camo.githubusercontent.com/ec20b1e5fd0222b51ae212372cee22190c413b273797b6e10cd7a1c2f267fb24/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d42696c6942696c692d6662373239393f7374796c653d666f722d7468652d6261646765)[Bilibili](https://space.bilibili.com/2099386049 "关注我喵") - B站个人主页 \| Bilibili personal homepage
 
 ###### 祝您生活愉快 Have a nice day :)
-![image](https://github.com/xiaoshaziYA/xiaoshaziYA/blob/main/images/show-face.gif)
+![image](https://github.com/xiaoshaziYA/xiaoshaziYA/blob/main/images/show-face.gif?width=100)
 Permalink: 祝您生活愉快 Have a nice day :)
