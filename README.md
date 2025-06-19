@@ -17,9 +17,9 @@ Permalink: 介绍自己 Introduction
 
 _Hi there! I'm Shazi, or you can call me Lengyeshiqing, whatever you prefer! (＾▽＾)_
 
-- 🌏 我是一名初中生，目前正努力备战2025年中考呢！(ง •̀_•́)ง
+- 🌏 我是一名高中生，正为了梦想而努力
 
-_I'm a junior high school student, currently preparing hard for the 2025 Zhongkao! (ง •̀_•́)ง_
+_*I am a high school student and am working hard for my dream*
 
 - 🧝‍ 我的 MBTI 类型是 ENFJ-A，喜欢和人打交道，希望能给大家带来正能量哦！
 
