@@ -42,7 +42,7 @@ _I'm a native Chinese speaker, and my English is passable but still improving! (
 ![image](https://github.com/xiaoshaziYA/xiaoshaziYA/blob/main/images/watermelon.gif?width=100)
 Permalink: 现在正在做的事 Ongoing Tasks
 
-- ✏ 备战 2025 中考 \| Preparing for the 2025 Zhongkao.
+- ~~✏ 备战 2025 中考 \| Preparing for the 2025 Zhongkao.~~ *already finish*
 - 🖥 参与 ColorFulCraft Network 的社区主管工作以及官网更新 \| Participating in the community management and official website updates of ColorFulCraft Network.
 - 🎭 经常在 B站 和 苦力怕论坛 活跃，和小伙伴们交流分享有趣的事情 \| Active on Bilibili and KLPBBS, sharing and discussing interesting things with friends.
 ![image](https://github.com/xiaoshaziYA/xiaoshaziYA/blob/main/images/milk-tea.jpg?width=100)
