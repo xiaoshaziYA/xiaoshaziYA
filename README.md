@@ -13,13 +13,13 @@ _**In the vast sea of people, it's wonderful that we've met!**_
 
 _Hi there! I'm Shazi, or you can call me Lengyeshiqing, whatever you prefer! (＾▽＾)_
 
-- 🌏 我是一名高中生，正为了梦想而努力
+- 🌏 我是一名高中生，正为了梦想而努力(*^▽^*)
 
-_I am a high school student and am working hard for my dream_
+_I am a high school student and am working hard for my dream_(*^▽^*)
 
-- 🧝‍ 我的 MBTI 类型是 ENFJ-A，喜欢和人打交道，希望能给大家带来正能量哦！
+- 🧝‍ 我的 MBTI 类型是 ENFJ-A，喜欢和人打交道，希望能给大家带来正能量哦！(’∇’)シ┳━┳
 
-_My MBTI type is ENFJ-A. I love interacting with people and hope to bring positive energy to everyone!_
+_My MBTI type is ENFJ-A. I love interacting with people and hope to bring positive energy to everyone!_(’∇’)シ┳━┳
 
 - 📰 我是中文母语者，英语水平嘛，凑合着能用，还在努力提升中呢！(๑•̀ㅂ•́)ง✧
 
@@ -38,7 +38,7 @@ _I'm a native Chinese speaker, and my English is passable but still improving! (
 ![watermelon gif](https://github.com/xiaoshaziYA/xiaoshaziYA/blob/main/images/watermelon.gif?width=150)
 
 - ~~✏ 备战 2025 中考 | Preparing for the 2025 Zhongkao.~~ *already finish*
-- 🖥 参与 ColorFulCraft Network 的社区主管工作以及官网更新 | Participating in the community management and official website updates of ColorFulCraft Network.
+- 🖥 参与 ColorFulCraft Network 的社区高管工作、技术支持以及官网更新 | Participate in the ColorFulCraft Network's community executive work, technical support, and website updates.
 - 🎭 经常在 B站 和 苦力怕论坛 活跃，和小伙伴们交流分享有趣的事情 | Active on Bilibili and KLPBBS, sharing and discussing interesting things with friends.
 
 ![milk tea](https://github.com/xiaoshaziYA/xiaoshaziYA/blob/main/images/milk-tea.jpg?width=200)
