@@ -45,13 +45,18 @@ _I'm a native Chinese speaker, and my English is passable but still improving! (
 
 ### 社交账户 Social Accounts
 
-<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; gap: 15px; flex-wrap: wrap; margin-top: 10px;">
 
-[![CFC Logo](https://via.placeholder.com/40x40/5865F2/FFFFFF?text=CFC&style=flat-square)](https://www.cfcmc.online/ "ColorFulCraft官网") **ColorFulCraft** - 高版本生电养老服务器 | High-version survival server
+[<img src="https://www.cfcmc.online/favicon.ico" width="30" alt="CFC Logo" title="ColorFulCraft官网"/> **ColorFulCraft**](https://www.cfcmc.online/)  
+高版本生电养老服务器 | High-version survival server
 
-[![KLPBBS Logo](https://klpbbs.com/logo.gif?width=40)](https://klpbbs.com/space-uid-724968.html "苦力怕论坛主页") **苦力怕论坛** - Minecraft社区主页 | Minecraft community
+[<img src="https://klpbbs.com/logo.gif" width="30" alt="KLPBBS Logo" title="苦力怕论坛主页"/> **苦力怕论坛**](https://klpbbs.com/space-uid-724968.html)  
+Minecraft社区主页 | Minecraft community
 
-[![Bilibili](https://img.shields.io/badge/-Bilibili-fb7299?style=flat-square&logo=bilibili&logoColor=white&logoWidth=20)](https://space.bilibili.com/2099386049 "B站主页") **Bilibili** - 视频分享平台 | Video sharing platform
+[<img src="https://www.bilibili.com/favicon.ico" width="30" alt="Bilibili Logo" title="B站主页"/> **Bilibili**](https://space.bilibili.com/2099386049)  
+视频分享平台 | Video sharing platform
+
+</div>
 
 </div>
 
