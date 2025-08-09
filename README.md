@@ -45,9 +45,15 @@ _I'm a native Chinese speaker, and my English is passable but still improving! (
 
 ### 社交账户 Social Accounts
 
-- 🌐 [ColorFulCraft](https://www.cfcmc.online/ "太好玩啦！！") - 高版本生电养老服务器 | High-version survival server for the elderly
-- 🕹️ [苦力怕论坛](https://klpbbs.com/space-uid-724968.html "你说，是不是很好吃a") - Minecraft苦力怕论坛个人主页 | Minecraft KLPBBS personal homepage
-- [![Bilibili](https://img.shields.io/badge/-Bilibili-fb7299?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/2099386049 "关注我喵") - B站个人主页 | Bilibili personal homepage
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+
+[![CFC Logo](https://via.placeholder.com/40x40/5865F2/FFFFFF?text=CFC&style=flat-square)](https://www.cfcmc.online/ "ColorFulCraft官网") **ColorFulCraft** - 高版本生电养老服务器 | High-version survival server
+
+[![KLPBBS Logo](https://klpbbs.com/logo.gif?width=40)](https://klpbbs.com/space-uid-724968.html "苦力怕论坛主页") **苦力怕论坛** - Minecraft社区主页 | Minecraft community
+
+[![Bilibili](https://img.shields.io/badge/-Bilibili-fb7299?style=flat-square&logo=bilibili&logoColor=white&logoWidth=20)](https://space.bilibili.com/2099386049 "B站主页") **Bilibili** - 视频分享平台 | Video sharing platform
+
+</div>
 
 ### 祝您生活愉快 Have a nice day :)
 ![show face gif](https://github.com/xiaoshaziYA/xiaoshaziYA/blob/main/images/show-face.gif?width=150)
