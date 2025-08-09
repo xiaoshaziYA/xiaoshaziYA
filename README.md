@@ -45,18 +45,9 @@ _I'm a native Chinese speaker, and my English is passable but still improving! (
 
 ### 社交账户 Social Accounts
 
-<div style="display: flex; align-items: center; gap: 15px; flex-wrap: wrap; margin-top: 10px;">
-
-[<img src="https://img.shields.io/badge/-CFC-5865F2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCI+PHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiBmaWxsPSIjNTg2NUYyIi8+PHRleHQgeD0iMjAiIHk9IjI1IiBmb250LWZhbWlseT0iQXJpYWwiIGZvbnQtc2l6ZT0iMjAiIGZpbGw9IiNGRkZGRkYiIHRleHQtYW5jaG9yPSJtaWRkbGUiPkNGRDwvdGV4dD48L3N2Zz4=" width="120" alt="CFC" title="ColorFulCraft官网"/>](https://blog.xhil.cn/)  
-**ColorFulCraft** - 高版本生电养老服务器 | High-version survival server
-
-[<img src="https://klpbbs.com/logo.gif" width="120" style="border-radius: 8px;" alt="KLPBBS" title="苦力怕论坛主页"/>](https://klpbbs.com/space-uid-724968.html)  
-**苦力怕论坛** - Minecraft社区主页 | Minecraft community
-
-[![Bilibili](https://img.shields.io/badge/-Bilibili-fb7299?style=for-the-badge&logo=bilibili&logoColor=white&logoWidth=20&width=120)](https://space.bilibili.com/2099386049 "B站主页")  
-**Bilibili** - 视频分享平台 | Video sharing platform
-
-</div>
+- 🌐 [ColorFulCraft](https://www.cfcmc.online/ "太好玩啦！！") - 高版本生电养老服务器 | High-version survival server for the elderly
+- 🕹️ [苦力怕论坛](https://klpbbs.com/space-uid-724968.html "你说，是不是很好吃a") - Minecraft苦力怕论坛个人主页 | Minecraft KLPBBS personal homepage
+- [![Bilibili](https://img.shields.io/badge/-Bilibili-fb7299?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/2099386049 "关注我喵") - B站个人主页 | Bilibili personal homepage
 
 ### 祝您生活愉快 Have a nice day :)
 ![show face gif](https://github.com/xiaoshaziYA/xiaoshaziYA/blob/main/images/show-face.gif?width=150)
