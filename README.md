@@ -13,9 +13,9 @@ _**In the vast sea of people, it's wonderful that we've met!**_
 
 _Hi there! I'm Shazi, or you can call me Lengyeshiqing, whatever you prefer! (＾▽＾)_
 
-- 🌏 我是一名高中生，正为了梦想而努力(*^▽^*)
+- 🌏 正为了梦想而努力(*^▽^*)
 
-_I am a high school student and am working hard for my dream_(*^▽^*)
+_I'm working hard for my dream_(*^▽^*)
 
 - 🧝‍ 我的 MBTI 类型是 ENFJ-A，喜欢和人打交道，希望能给大家带来正能量哦！(’∇’)シ┳━┳
 
@@ -37,17 +37,14 @@ _I'm a native Chinese speaker, and my English is passable but still improving! (
 
 ![watermelon gif](https://github.com/xiaoshaziYA/xiaoshaziYA/blob/main/images/watermelon.gif?width=150)
 
-- ~~✏ 备战 2025 中考 | Preparing for the 2025 Zhongkao.~~ *already finish*
 - 🖥 参与 ColorFulCraft Network 的社区高管工作、技术支持以及官网更新 | Participate in the ColorFulCraft Network's community executive work, technical support, and website updates.
 - 🎭 经常在 B站 和 苦力怕论坛 活跃，和小伙伴们交流分享有趣的事情 | Active on Bilibili and KLPBBS, sharing and discussing interesting things with friends.
 
 ![milk tea](https://github.com/xiaoshaziYA/xiaoshaziYA/blob/main/images/milk-tea.jpg?width=200)
 
-### 社交账户 Social Accounts
+### 友情链接 Links
 
-- 🌐 [ColorFulCraft](https://www.cfcmc.online/ "太好玩啦！！") - 高版本生电养老服务器 | High-version survival server for the elderly
-- 🕹️ [苦力怕论坛](https://klpbbs.com/space-uid-724968.html "你说，是不是很好吃a") - Minecraft苦力怕论坛个人主页 | Minecraft KLPBBS personal homepage
-- [![Bilibili](https://img.shields.io/badge/-Bilibili-fb7299?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/2099386049 "关注我喵") - B站个人主页 | Bilibili personal homepage
+- 🌐 [ColorFulCraft](https://blog.xhil.cn "太好玩啦！！") - 高版本生电养老服务器 | High-version survival server for the elderly
 
 ### 祝您生活愉快 Have a nice day :)
 ![show face gif](https://github.com/xiaoshaziYA/xiaoshaziYA/blob/main/images/show-face.gif?width=150)
