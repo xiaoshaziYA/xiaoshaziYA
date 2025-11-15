@@ -40,7 +40,5 @@ _I'm a native Chinese speaker, and my English is passable but still improving! (
 - 🖥 参与 ColorFulCraft Network 的社区高管工作、技术支持以及官网更新 | Participate in the ColorFulCraft Network's community executive work, technical support, and website updates.
 - 🎭 经常在 B站 和 苦力怕论坛 活跃，和小伙伴们交流分享有趣的事情 | Active on Bilibili and KLPBBS, sharing and discussing interesting things with friends.
 
-![milk tea](https://github.com/xiaoshaziYA/xiaoshaziYA/blob/main/images/milk-tea.jpg?width=200)
-
 ### 祝您生活愉快 Have a nice day :)
 ![show face gif](https://github.com/xiaoshaziYA/xiaoshaziYA/blob/main/images/show-face.gif?width=150)
