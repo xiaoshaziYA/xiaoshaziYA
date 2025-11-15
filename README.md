@@ -42,9 +42,5 @@ _I'm a native Chinese speaker, and my English is passable but still improving! (
 
 ![milk tea](https://github.com/xiaoshaziYA/xiaoshaziYA/blob/main/images/milk-tea.jpg?width=200)
 
-### 友情链接 Links
-
-- 🌐 [ColorFulCraft](https://blog.xhil.cn "太好玩啦！！") - 高版本生电养老服务器 | High-version survival server for the elderly
-
 ### 祝您生活愉快 Have a nice day :)
 ![show face gif](https://github.com/xiaoshaziYA/xiaoshaziYA/blob/main/images/show-face.gif?width=150)
