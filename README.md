@@ -5,7 +5,7 @@
   <p align="center">
 	  <a href="https://github.com/xiaoshaziYA">GitHub Status</a> 
     <p align="center">
-  <img src="https://https://github-readme-stats-inky-one-21.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent&width=400" />
+  <img src="https://https://github-readme-stats-inky-one-21.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" />
   <img src="https://github-readme-stats-inky-one-21.vercel.app/api/top-langs/?username=xiaoshaziYA&layout=compact&hide_border=true&icon_color=586069&title_color=24292e&width=400" />
 </p>
   </p>
